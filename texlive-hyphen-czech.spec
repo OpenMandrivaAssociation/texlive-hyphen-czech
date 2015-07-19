@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-hyphen-czech
 Version:	20120611
-Release:	8
+Release:	9
 Summary:	Czech hyphenation patterns
 Group:		Publishing
 URL:		http://tug.org/texlive
